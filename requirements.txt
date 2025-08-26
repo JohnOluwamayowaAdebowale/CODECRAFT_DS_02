@@ -1,0 +1,10 @@
+# Core
+pandas
+numpy
+matplotlib
+scikit-learn
+# NLP (Task 04)
+nltk
+vaderSentiment
+# Maps (Task 05)
+folium
